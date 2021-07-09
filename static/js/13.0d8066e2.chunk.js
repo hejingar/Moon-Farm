@@ -534,7 +534,7 @@
                     Object(s.a)();
                     return Object(c.jsxs)(u.a, {
                         children: [
-                            Object(c.jsxs)(je, { children: [Object(c.jsx)(o.n, { as: "h1", size: "xl", mb: "24px", color: "secondary", children: "Moon Finance" }), Object(c.jsx)(o.B, { children: "Get your wallet to the Moon" })] }),
+                            Object(c.jsxs)(je, { children: [Object(c.jsx)(o.n, { as: "h1", size: "xl", mb: "24px", color: "secondary", children: "Moon Finance" }), Object(c.jsx)(o.B, { children: "Farming starts at block<a href=\"https://bscscan.com/block/countdown/9094451\">9094451</a>" })] }),
                             Object(c.jsx)("div", { children: Object(c.jsxs)(be, { children: [Object(c.jsx)(q, {}), Object(c.jsx)(oe, {}), Object(c.jsx)(_, {}), Object(c.jsx)(te, {})] }) }),
                         ],
                     });
